@@ -1,0 +1,4 @@
+3)
+Cas1 : si on supprime l'instru 46 -> chiffre mauvais ordre 
+Cas2 : si on supprime l'instru 41 -> chiffre bon ordre 
+Cas2 : si on supprime l'instru 41 et 46 -> chiffre mauvais ordre 
